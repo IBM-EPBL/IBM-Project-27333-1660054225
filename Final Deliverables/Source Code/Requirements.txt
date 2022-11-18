@@ -1,0 +1,4 @@
+Flask
+sendgrid
+Ibm_db
+python-dotenv
