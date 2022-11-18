@@ -1,4 +1,4 @@
-Flask
-sendgrid
+Flask~=2.2.2
+Sendgrid
 Ibm_db
-python-dotenv
+Python-dotenv~=0.21.0
